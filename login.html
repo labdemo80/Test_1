@@ -53,7 +53,7 @@ function loginUser(event) {
   if (email === storedUser.email && password === storedUser.password) {
     localStorage.setItem("isLoggedIn", "true");
     alert("Login successful!");
-    window.location.href = "/pro/dashboard.html";
+    window.location.href = "dashboard.html";
   } else {
     alert("Invalid email or password!");
   }
