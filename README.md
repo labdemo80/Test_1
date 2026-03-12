@@ -18,6 +18,12 @@
 - **Frontend** : HTML, CSS, Bootstrap 5
 - **Logic** : JS
 
+# 📷 Screenshots
+<p align="center">
+  <img src="images/register.png" width="45%" height="50%">
+  <img src="images/register.png" width="45%" height="50%">
+</p>
+
 # ScreenShots
 ![Register](images/register.png)
 
