@@ -18,6 +18,16 @@
 - **Frontend** : HTML, CSS, Bootstrap 5
 - **Logic** : JS
 
+<details>
+  <summary>Click to view installation</summary>
+  ``` bash
+  git clone url
+  cd project
+  npm install
+  npm start
+  ```
+</details>
+
 # 📷 Screenshots
 <p align="center">
   <img src="images/register.png" width="45%" height="50%">
