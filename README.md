@@ -3,7 +3,7 @@
 ### Testing subsection
 
 <p align="center">
-  <img src ="images/register" width="300">
+  <img src ="images/register.png" width="300">
 </p>
 
 <h1>Demo Page</h1>
