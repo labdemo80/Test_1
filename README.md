@@ -2,7 +2,19 @@
 ## Test
 ### Testing subsection
 
-# Technology
+<p align="center">
+  <img src ="images/register" width="300">
+</p>
+
+<h1>Demo Page</h1>
+
+<p align="center">A web app for user auth and other pages</p>
+
+<p align="center">
+  <img src ="https://img.shields.io/badge/version-1.0-green">
+</p>
+
+# 🛠Technology
 - **Frontend** : HTML, CSS, Bootstrap 5
 - **Logic** : JS
 
