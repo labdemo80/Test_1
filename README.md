@@ -20,7 +20,7 @@
 
 <details>
   <summary>Click to view installation</summary>
-  ``` bash
+  ```bash
   git clone url
   cd project
   npm install
