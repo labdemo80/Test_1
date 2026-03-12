@@ -6,6 +6,6 @@ Test
 - **Logic** : JS
 
 # ScreenShots
-![Register](pro/images/register.png)
+![Register](images/register.png)
 
-![Dashboard](pro/images/dashboard.png)
+![Dashboard](images/dashboard.png)
