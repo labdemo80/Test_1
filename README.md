@@ -21,11 +21,10 @@
 <details>
   <summary>Click to view installation</summary>
   ```bash
-  git clone url
-  cd project
-  npm install
-  npm start
-  ```
+git clone <repo-url>
+cd project
+npm install
+npm start
 </details>
 
 # 📷 Screenshots
